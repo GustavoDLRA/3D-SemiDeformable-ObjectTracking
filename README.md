@@ -2,15 +2,7 @@
 
 This repository contains a suite of programs meant to aid in the detection of semi-deformable objects. The object used in this repository consisted of a bell pepper. It was used to develop my Master's Thesis. 
 
-<div class="sketchfab-embed-wrapper">
-  <iframe title="Bp4" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/0d6db7c6317a4b7fbb59a03e61d79c5c/embed"> 
-  </iframe> 
-  <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> 
-    <a href="https://sketchfab.com/3d-models/bp4-0d6db7c6317a4b7fbb59a03e61d79c5c?utm_medium=embed&utm_campaign=share-popup&utm_content=0d6db7c6317a4b7fbb59a03e61d79c5c" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Bp4 </a> 
-    by <a href="https://sketchfab.com/gustavodlra1999?utm_medium=embed&utm_campaign=share-popup&utm_content=0d6db7c6317a4b7fbb59a03e61d79c5c" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> gustavodlra </a> 
-    on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=0d6db7c6317a4b7fbb59a03e61d79c5c" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
-  </p>
-</div>
+<div class="sketchfab-embed-wrapper"> <iframe title="Bp4" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/0d6db7c6317a4b7fbb59a03e61d79c5c/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/bp4-0d6db7c6317a4b7fbb59a03e61d79c5c?utm_medium=embed&utm_campaign=share-popup&utm_content=0d6db7c6317a4b7fbb59a03e61d79c5c" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Bp4 </a> by <a href="https://sketchfab.com/gustavodlra1999?utm_medium=embed&utm_campaign=share-popup&utm_content=0d6db7c6317a4b7fbb59a03e61d79c5c" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> gustavodlra </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=0d6db7c6317a4b7fbb59a03e61d79c5c" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
 
 ## Python Requirements
