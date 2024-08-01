@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 3D-SemiDeformable-ObjectTracking
+message: >-
+  This repository contains a suite of programs meant to aid
+  in the detection of semi-deformable objects. The object
+  used in this repository consisted of a bell pepper.
+type: software
+authors:
+  - given-names: 'Gustavo '
+    family-names: De Los Ríos Alatorre
+    email: gustavodlra1999@gmail.com
+    affiliation: ITESM
+    orcid: 'https://orcid.org/0009-0000-1910-0691'
+repository-code: >-
+  https://github.com/GustavoDLRA/3D-SemiDeformable-ObjectTracking.git
+abstract: >-
+  This repository contains a suite of programs meant to aid
+  in the detection of semi-deformable objects. The object
+  used in this repository consisted of a bell pepper. 
+keywords:
+  - Computer Vision
+  - Robot Vision
+  - 3D
+  - Pose Estimation
+  - Object Detection
+license: Apache-2.0
+commit: ' 536ab17'
+version: '1.0'
+date-released: '2024-06-13'
